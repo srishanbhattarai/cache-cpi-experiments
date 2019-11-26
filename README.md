@@ -14,5 +14,8 @@ The second part of the simulation adds a unified 128K `n`-way associated L2 cach
 
 In each case, cycles per instruction is calculated.
 
+# Output example
+<img src="cache-sim-part-2.png" />
+
 # License
 MIT
