@@ -1,5 +1,5 @@
 # cache-cpi-experiments
-Simulated experiments to simulate multiple cache hierarchies, set-associativities, block sizes and AMAT using DineroIV
+Experiments to simulate multiple cache hierarchies, L1/L2 set-associativities, block sizes using DineroIV, and measure impact on Cycles Per Instruction (CPI) and Average Memory Access Time (AMAT).
 
 # Prerequisites
 
@@ -8,4 +8,4 @@ Simulated experiments to simulate multiple cache hierarchies, set-associativitie
 * DineroIV binary in the current working directory
 
 # License
-MI:
+MIT
